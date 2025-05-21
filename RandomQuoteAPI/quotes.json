@@ -1,0 +1,12 @@
+[
+  { "Id": 1, "Text": "Do not let what you cannot do interfere with what you can do.", "Author": "John Wooden" },
+  { "Id": 2, "Text": "Strive not to be a success, but rather to be of value.", "Author": "Albert Einstein" },
+  { "Id": 3, "Text": "I attribute my success to this: I never gave or took any excuse.", "Author": "Florence Nightingale" },
+  { "Id": 4, "Text": "The future belongs to those who believe in the beauty of their dreams.", "Author": "Eleanor Roosevelt" },
+  { "Id": 5, "Text": "You miss 100% of the shots you don't take.", "Author": "Wayne Gretzky" },
+  { "Id": 6, "Text": "Whether you think you can or you think you can’t, you’re right.", "Author": "Henry Ford" },
+  { "Id": 7, "Text": "The only way to do great work is to love what you do.", "Author": "Steve Jobs" },
+  { "Id": 8, "Text": "Act as if what you do makes a difference. It does.", "Author": "William James" },
+  { "Id": 9, "Text": "Success is not how high you have climbed, but how you make a positive difference to the world.", "Author": "Roy T. Bennett" },
+  { "Id": 10, "Text": "In the middle of every difficulty lies opportunity.", "Author": "Albert Einstein" }
+]
